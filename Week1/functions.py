@@ -21,7 +21,7 @@ def flipCoin():
     else:
         return 'Tails'
 
-# cx
+# ux
 print("Choose on of the two options: ")
 print("1. Roll a Die")
 print("2. Flip a Coin")
